@@ -1,4 +1,4 @@
 argument: simpleMain.c  
-	gcc simplemain.c -o premauto
+	gcc simpleMain.c -o fileProgram
 
 
